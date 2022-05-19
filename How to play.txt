@@ -1,0 +1,8 @@
+IMPORTANT:
+
+Please read IMPORTANT.txt before you do ANYTHING in this program.
+
+
+
+Open "home.html" in the game's files to play.
+This is a children's game where you have to get the fairy to water the plants by clicking on the "Water" button next to the plant you want the fairy to water. After all the plants are watered, to have another go please open "home.html" again.
