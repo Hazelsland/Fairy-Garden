@@ -1,3 +1,5 @@
+
+# IMPORTANT: Please read IMPORTANT.txt before playing.
 # IMPORTANT: Please read IMPORTANT.txt before using.
 # Fairy-Garden
 ## The fairies are doing gardening!
