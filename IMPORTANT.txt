@@ -1,3 +1,0 @@
-If you are using windows (mac and linux are not supported) then please move the files into a new folder in "C:/Users/dylan/Documents/" and call it "FairyGarden".
-If you do not follow the instructions above than this program will not work.
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
